@@ -5,7 +5,7 @@ import LOGO from "../assets/images/logo.png";
 import ILLINOIS from "../assets/icons/illunois.png";
 import DUKE from "../assets/icons/duke.png";
 import GOOGLE from "../assets/icons/googleGreenLogo.png";
-import GOOGLE_LOGO from "../assets/icons/logos_google.png";
+import GOOGLE_LOGO from "../assets/icons/google-logo.png";
 import GOOGLE_WORDMARK from "../assets/icons/logos_google.png";
 import UMICH from "../assets/icons/Michigan.png";
 import IBM from "../assets/icons/ibm.png";
